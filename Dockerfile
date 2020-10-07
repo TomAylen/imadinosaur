@@ -1,3 +1,3 @@
 FROM alpine:3.8
 
-CMD ["echo","this is CI/CD in action"]
+CMD ["echo","Toms Container that I am going to use for CI continuous integration"]
