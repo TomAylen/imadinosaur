@@ -1,3 +1,3 @@
 FROM alpine:3.8
 
-CMD ["echo","Toms Container that I am going to use for CI continuous integration. Now with even more changes. Whale"]
+CMD while true; do echo "Hello Intro to DevOps Course, This is Toms New and Improved container"; sleep 5; done
